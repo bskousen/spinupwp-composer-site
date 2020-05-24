@@ -35,7 +35,11 @@
     "vlucas/phpdotenv": "^3.0",
     "wpackagist-plugin/limit-login-attempts-reloaded": "*",
     "wpackagist-plugin/spinupwp": "*",
-    "wpackagist-theme/twentynineteen": "*"
+    "wpackagist-theme/twentynineteen": "*",
+	"satispress/fusion-builder": "*",
+	  "satispress/avada": "*",
+	  "satispress/avada-child-theme": "*",
+	  "satispress/fusion-core": "*"
   },
   "extra": {
     "wordpress-install-dir": "public/wp",
