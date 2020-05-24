@@ -17,7 +17,11 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
-    }
+    },
+    {
+			"type": "composer",
+			"url": "https://dev.isagenixtech.com/satispress/"
+		}
   ],
   "config": {
     "preferred-install": "dist",
