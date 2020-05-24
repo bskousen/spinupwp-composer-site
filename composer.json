@@ -38,7 +38,7 @@
     "wpackagist-theme/twentynineteen": "*",
 	"satispress/fusion-builder": "*",
 	  "satispress/avada": "*",
-	  "satispress/avada-child-theme": "*",
+	  "satispress/avada-child-theme": "1.1.0",
 	  "satispress/fusion-core": "*"
   },
   "extra": {
